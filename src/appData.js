@@ -1,0 +1,29 @@
+export const rowData=[
+    {
+        id:1,
+        title:"car",
+        price:100,
+        company:"hyundai",
+        info:"...",
+        incart:false,
+        count:1
+    },
+    {
+        id:2,
+        title:"bike",
+        price:200,
+        company:"honda",
+        info:"...",
+        incart:false,
+        count:1
+    },
+    {
+        id:3,
+        title:"plane",
+        price:300,
+        company:"boeng",
+        info:"...",
+        incart:false,
+        count:1
+    }
+]
