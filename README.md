@@ -1,5 +1,5 @@
 # CRUD-operations
-We will be building a React app that perfors basic CRUD operations.
+We will be building a React app that performs basic CRUD operations.
 
 ---
 
